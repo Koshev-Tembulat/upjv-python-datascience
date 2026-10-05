@@ -1,4 +1,4 @@
-"""# Python & Data Science — UPJV Amiens
+### Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Koshev Tembulat
 **Formation :** M1 Économie
