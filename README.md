@@ -1,4 +1,4 @@
-README = """# Python & Data Science — UPJV Amiens
+"""# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Koshev Tembulat
 **Formation :** M1 Économie
@@ -21,4 +21,3 @@ Python & Data Science réalisés sur Google Colab.
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
 """
-print(README)
